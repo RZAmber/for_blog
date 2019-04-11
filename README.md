@@ -1,2 +1,2 @@
 # for_blog
-This is the code will be showed in my blood.
+This is the code will be showed in my blog.
